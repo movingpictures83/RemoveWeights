@@ -1,0 +1,2 @@
+Prefix plugins/RemoveWeights/example/
+Plugin RemoveWeights inputfile random.tree outputfile random.noweights.tree
